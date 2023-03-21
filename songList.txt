@@ -1,0 +1,50 @@
+0,Operation Dawnseeker,Hypergryph,2022
+1,Radiant,Hypergryph,2021
+2,Africa,Toto,1982
+3,Take On Me,a-ha,1985
+4,September,Greenday,2005
+5,Everybody Wants to Rule the World,Tears for Fears,1985
+6,Pine Barrens,Jakey,2022
+7,Shelter,Porter Robinson,2016
+8,Money,The Drums,2011
+9,Here Without You,Three Doors Down,2003
+10,Mr. Brightside,The Killers,2004
+11,Hurt,Johnny Cash,2002
+12,Radioactive,Imagine Dragons,2012
+13,Sugar,Maroon 5,2014
+14,7 Years,Lukas Graham,2015
+15,The A Team,Ed Sheeran,2011
+16,Yellow,Coldplay,2000
+17,The Nights, Avicii,2014
+18,Circles,Post Malone,2019
+19,Tongue Tied,GROUPLOVE,2011
+20,Riptide,Vance Joy,2013
+21,All Night,Icona Pop,2013
+22,Decisive Battle II,Yasunori Nishiki,2018
+23,A Bewitching Dance,Reo Uratani,2015
+24,Paradise Lost,Tsutomu Narita,2017
+0,Operation Dawnseeker,Hypergryph,2022
+1,Radiant,Hypergryph,2021
+2,Africa,Toto,1982
+3,Take On Me,a-ha,1985
+4,September,Greenday,2005
+5,Everybody Wants to Rule the World,Tears for Fears,1985
+6,Pine Barrens,Jakey,2022
+7,Shelter,Porter Robinson,2016
+8,Money,The Drums,2011
+9,Here Without You,Three Doors Down,2003
+10,Mr. Brightside,The Killers,2004
+11,Hurt,Johnny Cash,2002
+12,Radioactive,Imagine Dragons,2012
+13,Sugar,Maroon 5,2014
+14,7 Years,Lukas Graham,2015
+15,The A Team,Ed Sheeran,2011
+16,Yellow,Coldplay,2000
+17,The Nights, Avicii,2014
+18,Circles,Post Malone,2019
+19,Tongue Tied,GROUPLOVE,2011
+20,Riptide,Vance Joy,2013
+21,All Night,Icona Pop,2013
+22,Decisive Battle II,Yasunori Nishiki,2018
+23,A Bewitching Dance,Reo Uratani,2015
+24,Paradise Lost,Tsutomu Narita,2017
